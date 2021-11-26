@@ -41,6 +41,10 @@ user_bet = screen.textinput("Make your bet", "Who will win the race? Enter a col
 candidate_turtles = create_turtles(colors)
 setup_turtles(candidate_turtles)
 
+for i in colors:
+    if not user_bet == i:
+        print("You enter wrong color here is the color list: red,green,blue,purple,orange,yellow")
+
 while not have_winner:
     have_winner, winner = pace_turtle(candidate_turtles)
 
