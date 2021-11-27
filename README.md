@@ -1,7 +1,7 @@
 # Turtle Racing
 
 
-I build tutle racing game with "turtle -- Turtle Graphics" library
+I build turtle racing game with "turtle -- Turtle Graphics" library
 
 Turtle Graphics is a popular way for introducing programming to kids. It was part of the original Logo programming language developed by Wally Feurzeig, Seymour Papert and Cynthia Solomon in 1967.
 
